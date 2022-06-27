@@ -1,1 +1,1 @@
-# Soduko-solver
+# Soduko solver
